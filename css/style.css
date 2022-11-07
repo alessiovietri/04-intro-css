@@ -1,0 +1,35 @@
+#main-title {
+    color: red;
+    text-align: center;
+}
+
+.super-special-style {
+    text-decoration: line-through;
+}
+
+.special-style {
+    border: 2px dashed blue;
+}
+
+img {
+    width: 100%;
+}
+
+div {
+    height: 200px;
+    background-image: url('../img/gatto.jfif');
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-position: center 0%;
+}
+
+#first-section {
+    width: 75%;
+}
+
+.small-p {
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
